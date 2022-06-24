@@ -1,12 +1,12 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on...
-- supporting the engineering community at the UK's Department for Education as a Lead Developer
+- building automated tools to support the public sector 
 - improving the developer experience in government
 - mentoring under-represented groups in tech
 
 ## 🌱 I'm currently learning
-- how to manage a community at scale
+- how to make the most out of AWS' many services
 - how to lead in a complex space
 - how to bake
 
